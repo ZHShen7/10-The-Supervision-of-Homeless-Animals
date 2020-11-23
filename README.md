@@ -35,7 +35,7 @@
 监测周期	    6小时	             缩短周期，实现连续性监测和分析
 
 
-| Column 1 Header | Column 2 Header | Column 3 Header |
+| 技术指标	 | Column 2 Header | Column 3 Header |
 | --------------- | --------------- | --------------- |
 | Row 1 Column 1 | Row 1 Column 2 | Row 1 Column 3 |
 | Row 2 Column 1 | Row 2 Column 2 | Row 2 Column 3 |
